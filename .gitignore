@@ -1,0 +1,10 @@
+# Archivos de entorno y secretos
+.env
+.env*.local
+*.env
+
+# Datos persistentes locales
+postgres_data/
+
+# Logs de ejecucion
+*.log
